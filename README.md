@@ -392,13 +392,22 @@ VFX 기술이 들어가지 않는 영화를 찾아보기가 힘들다 -------> *
 
 
 
-
-
-
-
 출처
 =====
+GameDESIGINING
+https://www.gamedesigning.org/animation/vfx/
 
+CG Land
+http://media.cgland.com/news.html?part=&modes=view&page=435&no=6766&word=
+
+위키피디아
+https://en.wikipedia.org/wiki/Visual_effects
+
+FXPHD VFX 102 class Video
+
+
+Brief History of Special/Visual Effects in Film
+https://people.cs.clemson.edu/~ekp/courses/dpa8150/assets/00_History.pdf
 
 
 
